@@ -100,7 +100,18 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 9,
+  id: 9,
+  title: "Predicting Length of Stay",
+  subtitle: "Machine Learning Model for Healthcare",
+  description: "Developed a predictive model to estimate hospital length of stay using patient data and machine learning techniques.",
+  image: "./images/length_of_stay.png",
+  techStack: ["Python", "Flask", "scikit-learn", "Pandas", "NumPy"],
+  githubLink: "https://github.com/nileshnwani/Predicating-Length-of-stay",
+  websiteLink: null,
+  downloadLink: null
+},
+{
+    id: 10,
     title: "Contact Form Application",
     subtitle: "Dynamic Contact Form",
     description: "Created a contact form application that dynamically fetches country and date information.",
@@ -111,7 +122,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 10,
+    id: 11,
     title: "Blogging Platform",
     subtitle: "Content Sharing Platform",
     description: "Developed a blogging platform to allow users to read and share various blog posts.",
@@ -122,7 +133,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 11,
+    id: 12,
     title: "Recruitment Landing Page",
     subtitle: "Company Recruitment Page",
     description: "Designed a landing page for recruitment purposes, providing information about the company and job openings.",
