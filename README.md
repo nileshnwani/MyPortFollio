@@ -13,9 +13,8 @@ Welcome to **Nilesh's Portfolio**, a personal website showcasing my skills, proj
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, React.js
-- **Backend**: Node.js, Express.js, Flask
-- **Database**: MySQL, MongoDB
-- **Other**: Python, Machine Learning, Power BI, Git/GitHub
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
 
 ## 🌟 How to Run
 1. Clone the repository:
