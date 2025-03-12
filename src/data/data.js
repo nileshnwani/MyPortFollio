@@ -342,6 +342,6 @@ export const educationdata = [
     college: "NEW HIGH SCHOOL CHIKALTHANA, Aurangabad",
     university: "Maharastra State Board",
     course: "10th",
-    year: "2016"
+    year: ""
   }
 ];
