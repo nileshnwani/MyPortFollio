@@ -10,8 +10,19 @@ import {
 import { links, skillImage } from "../utils/constant";
 
 export const projectsdata = [
+      {
+        "id": 1,
+        "title": "N-Connect - Real-time Chat Application",
+        "subtitle": "MERN Stack Web Application",
+        "description": "Developed a real-time chat application using the MERN stack with WebSockets for instant messaging. The application supports one-on-one and group chats, user authentication, notifications, and a responsive UI.",
+        "image": "./images/N-Connect.png",
+        "techStack": ["MongoDB", "Express.js", "React.js", "Node.js", "Socket.io", "Chakra UI"],
+        "githubLink": "https://github.com/nileshnwani/N-connect/",
+        "websiteLink": null,
+        "downloadLink": null
+    },
   {
-    id: 1,
+    id: 2,
     title: "Voxify- Recognizer and Translator Application",
     subtitle: "Flask-based Web Application",
     description: "Developed a web application that converts speech to text using Flask and Python. The application supports multi-language transcription and ensures real-time performance.",
@@ -22,7 +33,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 2,
+    id: 3,
     title: "eCommerce Platform",
     subtitle: "Full-Stack MERN Application",
     description: "Built a complete eCommerce platform with features such as user authentication, product management, and payment integration.",
@@ -34,7 +45,7 @@ export const projectsdata = [
     websiteLink: "https://nilesh-marketplace-ui.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Task Manager Application",
     subtitle: "MERN Stack Application",
     description: "Developed a task manager application to help users organize and track their daily tasks efficiently.",
@@ -45,7 +56,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 4,
+    id: 5,
     title: "Gym Management System",
     subtitle: "Web-Based Application",
     description: "Created a comprehensive system to manage gym operations, including user sign-in and plan management.",
@@ -56,7 +67,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 5,
+    id: 6,
     title: "Dynamic Quiz Web App",
     subtitle: "Interactive Quiz Application",
     description: "Built an interactive quiz application with timers and scoring systems to enhance user engagement.",
@@ -67,7 +78,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 6,
+    id: 7,
     title: "Machine Learning Projects",
     subtitle: "Comprehensive ML Algorithm Implementations",
     description: "Implemented various machine learning algorithms, providing code examples and explanations for each.",
@@ -78,7 +89,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 7,
+    id: 8,
     title: "Data Science Projects",
     subtitle: "Multiple Data Science Projects",
     description: "Worked on multiple data science projects, including Titanic Survival Prediction and Movie Rating Prediction.",
@@ -89,7 +100,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 8,
+    id: 9,
     title: "The Audio Store",
     subtitle: "Product Showcase Website",
     description: "Developed a website to showcase various audio products, providing detailed information for each.",
@@ -100,7 +111,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-  id: 9,
+  id: 10,
   title: "Predicting Length of Stay",
   subtitle: "Machine Learning Model for Healthcare",
   description: "Developed a predictive model to estimate hospital length of stay using patient data and machine learning techniques.",
@@ -111,7 +122,7 @@ export const projectsdata = [
   downloadLink: null
 },
 {
-    id: 10,
+    id: 11,
     title: "Contact Form Application",
     subtitle: "Dynamic Contact Form",
     description: "Created a contact form application that dynamically fetches country and date information.",
@@ -122,7 +133,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 11,
+    id: 12,
     title: "Blogging Platform",
     subtitle: "Content Sharing Platform",
     description: "Developed a blogging platform to allow users to read and share various blog posts.",
@@ -133,7 +144,7 @@ export const projectsdata = [
     downloadLink: null
   },
   {
-    id: 12,
+    id: 13,
     title: "Recruitment Landing Page",
     subtitle: "Company Recruitment Page",
     description: "Designed a landing page for recruitment purposes, providing information about the company and job openings.",
