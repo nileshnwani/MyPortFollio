@@ -287,7 +287,7 @@ export const experiencedata = [
     subtitle: "&We Media",
     description: "Developed and deployed responsive web applications, optimized MySQL queries for better performance, and ensured dynamic content updates using technologies like PHP, React.js, and Bootstrap.",
     image: "./images/andwe.png",
-    githubLink: "https://github.com/NileshWani"
+    githubLink: "https://github.com/nileshnwani"
   }
 ];
 
