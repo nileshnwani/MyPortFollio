@@ -42,7 +42,7 @@ export const projectsdata = [
     githubLink: "https://github.com/nileshnwani/Nilesh_Marketplace",
     websiteLink: "https://nilesh-marketplace-ui.vercel.app/",
     downloadLink: "https://github.com/nileshnwani/Nilesh_Marketplace",
-    websiteLink: "https://nilesh-marketplace-ui.vercel.app/",
+    websiteLink: "null",
   },
   {
     id: 4,
