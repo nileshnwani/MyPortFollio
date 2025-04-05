@@ -40,9 +40,8 @@ export const projectsdata = [
     image: "./images/ecommerce.png",
     techStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
     githubLink: "https://github.com/nileshnwani/Nilesh_Marketplace",
-    websiteLink: "https://nilesh-marketplace-ui.vercel.app/",
+    websiteLink: null,
     downloadLink: "https://github.com/nileshnwani/Nilesh_Marketplace",
-    websiteLink: "null",
   },
   {
     id: 4,
