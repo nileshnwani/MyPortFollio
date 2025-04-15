@@ -18,7 +18,7 @@ export const projectsdata = [
         "image": "./images/N-Connect.png",
         "techStack": ["MongoDB", "Express.js", "React.js", "Node.js", "Socket.io", "Chakra UI"],
         "githubLink": "https://github.com/nileshnwani/N-connect/",
-        "websiteLink": null,
+        "websiteLink": "https://n-connect.onrender.com/",
         "downloadLink": null
     },
   {
